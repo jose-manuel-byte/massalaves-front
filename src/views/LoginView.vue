@@ -1,7 +1,5 @@
 <script setup lang="ts">
 const loginWithGoogle = () => {
-  // Aquí iría la lógica para autenticar con Google
-  // Por ahora solo mostraremos un console.log para propósitos educativos
   console.log('Iniciando sesión con Google...')
 }
 </script>
