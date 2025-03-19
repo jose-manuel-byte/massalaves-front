@@ -1,6 +1,8 @@
 {
   "login": {
     "welcome": "WELCOME",
-    "loginWithGoogle": "Login with Google"
+    "community": "Massalavés Community",
+    "loginWithGoogle": "Login",
+    "description": "Access to manage your community room reservations"
   }
 }
